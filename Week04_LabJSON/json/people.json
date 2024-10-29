@@ -1,0 +1,233 @@
+[
+	{
+    	"firstName": "John",
+	    "lastName": "Smith",
+	    "age": 25,
+	    "address": {
+	        "streetAddress": "21 2nd Street",
+	        "city": "New York",
+	        "state": "NY",
+	        "postalCode": 10021
+	    },
+	    "phoneNumbers": [
+	        {
+	            "type": "home",
+	            "number": "212 555-1234"
+	        },
+	        {
+	            "type": "fax",
+	            "number": "646 555-4567" 
+	        }
+	    ] 
+	},
+	{
+	    "firstName": "Kandace",
+	    "lastName": "Kingsley",
+	    "age": 20,
+	    "address": {
+	        "streetAddress": "17 Brookhaven Street",
+	        "city": "New York",
+	        "state": "NY",
+	        "postalCode": 10021
+	    },
+	    "phoneNumbers": [
+	        {
+	            "type": "home",
+	            "number": "212 658-3916"
+	        },
+	        {
+	            "type": "fax",
+	            "number": "646 666-6789" 
+	        }
+	    ] 
+	},
+	{
+	    "firstName": "Ashley",
+	    "lastName": "Williams",
+	    "age": 30,
+	    "address": {
+	      	"streetAddress": "10 Main Street",
+	      	"city": "Los Angeles",
+	      	"state": "CA",
+	      	"postalCode": 90210
+    	},
+    	"phoneNumbers": [
+			{
+			    "type": "home",
+			    "number": "310 555-7890"
+			},
+			{
+			    "type": "mobile",
+			    "number": "213 456-1234"
+			}
+        ]
+  	},
+  	{
+	    "firstName": "Brandon",
+	    "lastName": "Miller",
+	    "age": 28,
+	    "address": {
+		  "streetAddress": "42 Maple Avenue",
+		  "city": "Chicago",
+		  "state": "IL",
+		  "postalCode": 60601
+    	},
+    	"phoneNumbers": [
+	      {
+	        "type": "home",
+	        "number": "773 555-0987"
+	      },
+	      {
+	        "type": "work",
+	        "number": "312 333-4455"
+	      }
+	    ]	
+  },
+  {
+    "firstName": "Christina",
+    "lastName": "Lee",
+    "age": 22,
+    "address": {
+      "streetAddress": "15 Elm Street",
+      "city": "Seattle",
+      "state": "WA",
+      "postalCode": 98109
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "206 555-5678"
+      },
+      {
+        "type": "mobile",
+        "number": "425 123-4567"
+      }
+    ]
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Young",
+    "age": 40,
+    "address": {
+      "streetAddress": "88 Pine Lane",
+      "city": "Miami",
+      "state": "FL",
+      "postalCode": 33133
+    },
+    "phoneNumbers": [
+      {
+        "type": "home",
+        "number": "305 555-9876"
+      },
+      {
+        "type": "work",
+        "number": "786 222-3344"
+      }
+    ]
+  },
+  {
+  "firstName": "David",
+  "lastName": "Robinson",
+  "age": 35,
+  "address": {
+    "streetAddress": "24 Sunset Boulevard",
+    "city": "San Francisco",
+    "state": "CA",
+    "postalCode": 94107
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "415 555-2345"
+    },
+    {
+      "type": "mobile",
+      "number": "510 789-0123"
+    }
+  ]
+},
+{
+  "firstName": "Emily",
+  "lastName": "Garcia",
+  "age": 27,
+  "address": {
+    "streetAddress": "11 Oak Street",
+    "city": "Austin",
+    "state": "TX",
+    "postalCode": 78704
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "512 555-5678"
+    },
+    {
+      "type": "work",
+      "number": "830 222-1234"
+    }
+  ]
+},
+{
+  "firstName": "Nicholas",
+  "lastName": "Chen",
+  "age": 42,
+  "address": {
+    "streetAddress": "38 Cedar Drive",
+    "city": "Denver",
+    "state": "CO",
+    "postalCode": 80204
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "303 555-8901"
+    },
+    {
+      "type": "mobile",
+      "number": "720 456-7890"
+    }
+  ]
+},
+{
+  "firstName": "Sarah",
+  "lastName": "Johnson",
+  "age": 31,
+  "address": {
+    "streetAddress": "7 Maple Avenue",
+    "city": "Atlanta",
+    "state": "GA",
+    "postalCode": 30303
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "404 555-3456"
+    },
+    {
+      "type": "work",
+      "number": "678 987-6543"
+    }
+  ]
+},
+{
+  "firstName": "William",
+  "lastName": "Brown",
+  "age": 29,
+  "address": {
+    "streetAddress": "55 Elm Street",
+    "city": "Seattle",
+    "state": "WA",
+    "postalCode": 98109
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "206 555-1011"
+    },
+    {
+      "type": "mobile",
+      "number":  "425 987-3456"
+    }
+  ]
+}
+]

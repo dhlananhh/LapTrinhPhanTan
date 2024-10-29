@@ -1,0 +1,54 @@
+[
+	{
+		"restaurantId": 30000001,
+		"name": "Morris Park Bake Shop",
+		"borough": "Bronx",
+		"cuisine": "Bakery",
+		"isActive": false,
+		"categories": ["Seafood", "Fastfood"],
+		"address": {
+			"building": "1007",
+			"coord": [-73.856077, 40.848447],
+			"street": "Morris Park Ave",
+			"zipcode": "10462"
+		},
+		"grades": [
+			{
+				"date": 1393804800000,
+				"grade": "A",
+				"score": 2
+			},
+			{
+				"date": 1378857600000,
+				"grade": "A",
+				"score": 6
+			},
+			{
+				"date": 1358985600000,
+				"grade": "A",
+				"score": 10
+			}
+		]
+	},
+	{
+		"restaurantId": 30000002,
+		"name": "Wendy'S",
+		"borough": "Brooklyn",
+		"cuisine": "Hamburgers",
+		"isActive": true,
+		"categories": ["Veganfood", "Fastfood"],
+		"address": {
+			"building": "469",
+			"coord": [-73.961704, 40.662942],
+			"street": "Flatbush Avenue",
+			"zipcode": "11225"
+		},
+		"grades": [
+			{
+				"date": 1419897600000,
+				"grade": "A",
+				"score": 8
+			}
+		]
+	}
+]

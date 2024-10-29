@@ -1,0 +1,9 @@
+{
+	"name": "John",
+	"isRetired": false,
+	"age": 42,
+	"skills": [
+		"Java SE",
+		"Java EE"
+	]
+}
